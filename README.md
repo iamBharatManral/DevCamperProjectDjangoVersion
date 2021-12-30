@@ -1,0 +1,1 @@
+This is the Django version of DevCampProject based on the course "Node.js API Masterclass with Express and MongoDB"
